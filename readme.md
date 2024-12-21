@@ -16,8 +16,8 @@ le message et important
 permet de pousser les modifications en ligne (github)
 
 ## git status 
-permet de verifier le status du repertoir
-permet de lister les modifications a traiter
+-permet de verifier le status du repertoir
+-permet de lister les modifications a traiter
 ## test
 test
 ## test2
