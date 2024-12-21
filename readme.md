@@ -22,3 +22,6 @@ permet de lister les modifications a traiter
 test
 ## test2
 hh
+
+## git log
+permet de lister les modifications
