@@ -1,1 +1,2 @@
-Commandes git
+#Commandes git
+Liste des commandes git
