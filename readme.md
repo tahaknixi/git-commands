@@ -4,7 +4,6 @@
 ## git init
 - permet d initialiser un repertoire
 
-
 ## git add 
 - permet d ajouter un fichier ou des modifications dans le stagging
 
@@ -21,9 +20,6 @@ permet de pousser les modifications en ligne (github)
 
 ## git log
 - permet de lister les modifications
-
-## qttttest
-tetetee
 
 # demande de help
 help help
