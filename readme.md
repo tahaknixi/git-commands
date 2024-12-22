@@ -19,11 +19,6 @@ permet de pousser les modifications en ligne (github)
 - permet de verifier le status du repertoir
 - permet de lister les modifications a traiter
 
-## test
-test
-## test2
-hh
-
 ## git log
 - permet de lister les modifications
 
