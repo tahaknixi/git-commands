@@ -37,6 +37,6 @@ help help
 permet de cree une branche
 
 ## git checkout 
--permet de passer d une branche a une autre
--permet aussi de se deplacer d une branche a une autre
--avec l option -b checkout cree la branche si il n existe pas
+- permet de passer d une branche a une autre
+- permet aussi de se deplacer d une branche a une autre
+- avec l option -b checkout cree la branche si il n existe pas
