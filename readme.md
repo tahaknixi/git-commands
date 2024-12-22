@@ -31,3 +31,6 @@ help help
 - permet de passer d une branche a une autre
 - permet aussi de se deplacer d une branche a une autre
 - avec l option -b checkout cree la branche si il n existe pas
+## git pull
+permet de recuperer mes modificattion a distante from git hub
+
