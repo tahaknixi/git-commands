@@ -22,7 +22,7 @@ permet de pousser les modifications en ligne (github)
 - permet de lister les modifications
 
 # demande de help
-help help
+- help help help 5
 
 # git branch
 - permet de cree une branche
