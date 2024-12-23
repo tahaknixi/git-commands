@@ -38,3 +38,7 @@ permet de pousser les modifications en ligne (github)
 -  les modifications de la branche mere sont placer en dessous des modifications de la brancher courante
 - les modifications de la branche courante sont placer au dessus des modifications de la brancher mere
 
+## git reset 
+- permet de supprimer un commit 
+- permet de revenir a un commit defini par son identifient 
+- attention a utiliser avec precaution
