@@ -42,3 +42,5 @@ permet de pousser les modifications en ligne (github)
 - permet de supprimer un commit 
 - permet de revenir a un commit defini par son identifient 
 - attention a utiliser avec precaution
+## git diff 
+- permet de comparer deux commits
